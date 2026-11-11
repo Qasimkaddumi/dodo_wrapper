@@ -1,0 +1,22 @@
+name: dodo_wrapper_example
+description: Example app for the dodo_wrapper package (Dodo Payments on Flutter web).
+publish_to: none
+
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.8.0
+  flutter: ">=3.32.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dodo_wrapper:
+    path: ../
+  web: ^1.1.1
+
+dev_dependencies:
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
