@@ -2,8 +2,6 @@
 
 Unofficial [Dodo Payments](https://dodopayments.com) checkout for Flutter web. This package is not affiliated with Dodo Payments.
 
-> **Status:** in development. Payment flows have not yet been tested against a real checkout session.
-
 For Android and iOS, use Dodo's official [`dodopayments_checkout`](https://pub.dev/packages/dodopayments_checkout) package.
 
 ## Features

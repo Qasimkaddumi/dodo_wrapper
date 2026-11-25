@@ -1,3 +1,7 @@
+## 0.1.1
+
+* README: removed the in-development status note.
+
 ## 0.1.0
 
 * Initial release for Flutter web.
